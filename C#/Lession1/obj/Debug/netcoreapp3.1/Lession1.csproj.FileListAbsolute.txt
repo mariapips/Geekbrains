@@ -1,0 +1,13 @@
+C:\1_practice\Geekbrains\Lession1\bin\Debug\netcoreapp3.1\Lession1.exe
+C:\1_practice\Geekbrains\Lession1\bin\Debug\netcoreapp3.1\Lession1.deps.json
+C:\1_practice\Geekbrains\Lession1\bin\Debug\netcoreapp3.1\Lession1.runtimeconfig.json
+C:\1_practice\Geekbrains\Lession1\bin\Debug\netcoreapp3.1\Lession1.runtimeconfig.dev.json
+C:\1_practice\Geekbrains\Lession1\bin\Debug\netcoreapp3.1\Lession1.dll
+C:\1_practice\Geekbrains\Lession1\bin\Debug\netcoreapp3.1\Lession1.pdb
+C:\1_practice\Geekbrains\Lession1\obj\Debug\netcoreapp3.1\Lession1.csprojAssemblyReference.cache
+C:\1_practice\Geekbrains\Lession1\obj\Debug\netcoreapp3.1\Lession1.AssemblyInfoInputs.cache
+C:\1_practice\Geekbrains\Lession1\obj\Debug\netcoreapp3.1\Lession1.AssemblyInfo.cs
+C:\1_practice\Geekbrains\Lession1\obj\Debug\netcoreapp3.1\Lession1.csproj.CoreCompileInputs.cache
+C:\1_practice\Geekbrains\Lession1\obj\Debug\netcoreapp3.1\Lession1.dll
+C:\1_practice\Geekbrains\Lession1\obj\Debug\netcoreapp3.1\Lession1.pdb
+C:\1_practice\Geekbrains\Lession1\obj\Debug\netcoreapp3.1\Lession1.genruntimeconfig.cache
