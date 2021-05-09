@@ -1,0 +1,6 @@
+#ignore build and debug files:
+**/bin
+**/obj
+
+#ignore IDE files:
+**/.vs
